@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: Watch free
+! Expires: 30 days
+! Homepage: http://www.mysite.com
+!------------------------------------------------------------
+! Anti AdBlock killer
+!------------------------------------------------------------
+@@||wtfzone-oficial.xyz^$generichide
+wtfzone-oficial.xyz##.ads
+||streamxxxfree.com/pop.html
+|ws://$other,domain=videowood.tv
